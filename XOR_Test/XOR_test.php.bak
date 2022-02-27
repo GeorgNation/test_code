@@ -56,7 +56,6 @@ printf("XOR test (%f,%f) -> %f, should be %f, difference=%f\n", $input[0], $inpu
 echo "Destroying network.\n";
 fann_destroy ($fann);
 
-// Results:
 /*
 
 Creating network.
